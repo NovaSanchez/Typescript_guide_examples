@@ -1,10 +1,11 @@
-Typescript Guia By Nova Sanchez
+ypescript Guia By Nova Sanchez
 
 
 hola y bienvenido a mi guia de typescript, podras encontrar algundas ayudas interezantes y tambien el codigo del repo te puede ayudar a depejar algunas dudas 
  sin mas empecemos:
 
-## if
+## if 
+[\[code\]](https://github.com/NovaSanchez/Typescript_guide_examples/blob/main/src/ifs.ts)
 
 // el comando if evalua un MediaElementAudioSourceNode, objeto o variable, y dirige el flujo
 
@@ -25,7 +26,6 @@ hola y bienvenido a mi guia de typescript, podras encontrar algundas ayudas inte
 // >=; <= mayor/menor o igual que
 
 // || or para concatenar o hacer multiple evaluaciones, se ejecutara el codigo si tan solo una cohincide
-
 // && and donde se evaluan multiples condiciones y todas deben cohincidir
 
 
@@ -49,4 +49,3 @@ hola y bienvenido a mi guia de typescript, podras encontrar algundas ayudas inte
     } else {
     console.log('x2 es diferente de 3' )
     }
-
